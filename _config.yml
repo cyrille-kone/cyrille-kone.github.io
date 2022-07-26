@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
-title_separator          : "|"
+title                    : "Home|"
+title_separator          : ""
 name                     : &name "Cyrille Kone"
 description              : &description "Mathematics enthusiast"
 url                      : "https://cyrille-kone.github.io"
