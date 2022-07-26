@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cyrille Kone"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Cyrille Kone"
 description              : &description "Mathematics enthusiast"
