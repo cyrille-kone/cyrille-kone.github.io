@@ -23,3 +23,4 @@ Master's thesis (computer science and engineering)<br>
 Politecnico di Milano, 2017<br>
 [<a href="https://www.politesi.polimi.it/bitstream/10589/136073/1/Andrea_Tirinzoni_Thesis.pdf">pdf</a>]
 </p>
+[back](./)
