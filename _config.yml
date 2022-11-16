@@ -3,12 +3,14 @@ affiliation: Inria Scool (Lille)
 email: cyrille.kone at inria dot fr
 logo: /assets/img/logo.png
 description: PhD candidate in Reinforcement Learning.
-show_downloads: false
 theme: jekyll-theme-minimal
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
+google_analytics:
+is_user_page: false
+is_project_page: false
+show_downloads: false
 #favicon: ./assets/img/favicon.png
 #favicon_dark: ./assets/img/favicon-dark.png
