@@ -13,7 +13,6 @@ layout: default
 <ul>
   <li>[November 2022] I started my PhD in the Scool team</li>
   <li>[April 2022] I joined the Scool team at INRIA Lille as an intern</li>
-  <li>[March 2021] I successfully defended my PhD thesis <a href="https://www.politesi.polimi.it/handle/10589/171185">"Exploiting Structure for Transfer in Reinforcement Learning"</a> and received a PhD cum laude in Information Technology</li>
-</ul>
+  </ul>
 
 
