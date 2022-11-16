@@ -17,10 +17,10 @@ layout: default
 
 #### Theses
 <p>
-<b>Adversarial Imitation Learning under Covariate Shift</b><br>
-Andrea Tirinzoni (advised by Marcello Restelli)<br>
-Master's thesis (computer science and engineering)<br>
-Politecnico di Milano, 2017<br>
-[<a href="https://www.politesi.polimi.it/bitstream/10589/136073/1/Andrea_Tirinzoni_Thesis.pdf">pdf</a>]
+<b>Optimal Bandits Algorithms for Pure Exploration with Multivariate Distributions</b><br>
+Author<br>
+Master's thesis (computer science and statistical learning)<br>
+ENS Paris-Saclay, 2022<br>
+[<a href="{{ "/assets/pdf/master_thesis.pdf"  | absolute_url }}">pdf</a>]
 </p>
 [back](./)
