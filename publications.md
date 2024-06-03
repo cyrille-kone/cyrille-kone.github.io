@@ -10,8 +10,17 @@ layout: default
 ##### [<a href="#"> pdf </a>] [<a href="#"> slides </a>] [<a href="#"> poster </a>] [<a href="#"> code </a>]
 
 #### Conference
-<p style="font-size: 13pt; color: gray;">2022</p>
-#### Journal
+<p style="font-size: 13pt; color: gray;">2023</p>
+
+##### **Adaptive Algorithms for Relaxed Pareto Set Identification, NeurIPS 2023**
+##### **Cyrille Kone**,_Emilie Kaufmann_, _Laura Richert_
+##### [<a href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html"> pdf </a>] [<a href="https://neurips.cc/media/neurips-2023/Slides/70119.pdf"> slides </a>] [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70119.png?t=1699958617.924882"> poster </a>] [<a href="#"> code </a>]
+
+##### **Bandit Pareto Set Identification: The Fixed-Budget Setting, AISTATS 2023**
+##### **Cyrille Kone**,_Emilie Kaufmann_, _Laura Richert_
+##### [<a href="https://proceedings.mlr.press/v238/kone24a.html"> pdf </a>] [<a href="#"> slides </a>] [<a href="https://virtual.aistats.org/media/PosterPDFs/AISTATS%202024/6844.png?t=1714622203.9607217"> poster </a>] [<a href="#"> code </a>]
+
+<!-- #### Journal -->
 
 #### Workshops
 
@@ -21,6 +30,6 @@ layout: default
 Author<br>
 Master's thesis (computer science and statistical learning)<br>
 ENS Paris-Saclay, 2022<br>
-[<a href="{{ "/assets/pdf/master_thesis.pdf"  | absolute_url }}">pdf</a>]
+[<a href="{{"/assets/pdf/master_thesis.pdf"  | absolute_url }}">pdf</a>]
 </p>
 [back](./)
