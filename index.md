@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# under construction
+<h1 style="color:red" > Under construction</h1>
 ### About me 
 
 <p>I am a PhD candidate at the Inria Lille’s <a href="https://team.inria.fr/scool/">Scool team </a> (ex SequeL), under the supervision of Emilie Kaufmann (CNRS / Inria researcher) and Laura Richert (Inserm/Inria researcher). Before my PhD, I graduated from ENS Rennes and ENS Paris-Saclay.
