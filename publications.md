@@ -4,22 +4,24 @@ layout: default
 
 ### Publications
 #### Working papers 
-##### **Title**
-##### **Author1**,_Authors*_
-##### arXiv preprint, 2022
-##### [<a href="#"> pdf </a>] [<a href="#"> slides </a>] [<a href="#"> poster </a>] [<a href="#"> code </a>]
+<!-- <p style="font-size: 13pt; color: gray;">2023</p> -->
+<p> <a href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html">Bandit Pareto Set Identification with a Multi-output linear model</a> <br>
+<I>Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
+<I> Under review </I> <br>
+[<a class="no-margin" href=""> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
+</p>
 
 #### Conference papers 
 <p style="font-size: 13pt; color: gray;">2023</p>
-<p>
-<a href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html"> Adaptive Algorithms for Relaxed Pareto Set Identification, NeurIPS 2023 </a> <br>
+<p> <a href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html">Adaptive Algorithms for Relaxed Pareto Set Identification</a> <br>
 <I>Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
 NeurIPS 2023, New Orleans, USA  <br>
-[<a href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html"> pdf </a>] [<a href="https://neurips.cc/media/neurips-2023/Slides/70119.pdf"> slides </a>] [<a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70119.png?t=1699958617.924882"> poster </a>] [<a href="#"> code </a>]
+[<a class="no-margin" href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html"> pdf </a>] [<a class="no-margin" href="https://neurips.cc/media/neurips-2023/Slides/70119.pdf"> slides </a>] [<a class="no-margin" href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70119.png?t=1699958617.924882"> poster </a>] [<a class ="no-margin" href="#"> code </a>]
 </p>
-<p>
-<a href="https://proceedings.mlr.press/v238/kone24a.html"> Bandit Pareto Set Identification: The Fixed-Budget Setting, AISTATS 2023</a> <br>
-<I>Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
+
+<p class="no-margin">
+<a href="https://proceedings.mlr.press/v238/kone24a.html"> Bandit Pareto Set Identification: The Fixed-Budget Setting</a> <br>
+<I class="highlight, mf">Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
 AISTATS 2023, Valencia, Spain <br>
 <a href="https://proceedings.mlr.press/v238/kone24a.html"> pdf </a>|<a href="#"> slides </a>| <a href="https://virtual.aistats.org/media/PosterPDFs/AISTATS%202024/6844.png?t=1714622203.9607217"> poster </a>|<a href="#"> code </a>
 </p>
