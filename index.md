@@ -9,7 +9,7 @@ layout: default
 ### [News] 
 
 <ul>
-  <li>[October 2024] Our paper on <a href="https://arxiv.org/pdf/2411.04939">Posterior sampling for PSI is online </a></li>
+  <li>[October 2024] Our paper on <a href="https://arxiv.org/pdf/2411.04939">Posterior sampling for PSI </a> is online  </li>
   <li>[December 2023] Our paper on <a href="https://proceedings.mlr.press/v238/kone24a.html">Fixed-Budget PSI </a> has been accepted at AISTATS 2023</li>
   <li>[December 2023] I will present our paper on <a href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html">Adaptive PSI </a> at NeurIPS 2023 in New Orleans</li>
   <!-- <li>[August 2023] Our paper on <a href=""> Adaptive PSI </a> has been accepted at EWRL 2023 in Brussels </li> -->
