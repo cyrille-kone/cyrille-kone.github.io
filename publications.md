@@ -3,21 +3,21 @@ layout: default
 ---
 
 <h3> Publications </h3>
-<h4> Working papers </h4>
-<!-- <p style="font-size: 13pt; color: gray;">2023</p> -->
-<p> <a href="#">Bandit Pareto Set Identification with a Multi-output linear model</a> <br>
-<I>Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
-[<a class="no-margin" href=""> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
+<h4>Preprints </h4>
+<!-- <p style="font-size: 12pt; color: gray;">2023</p> -->
+<p> <a href="https://arxiv.org/pdf/2411.04939">Pareto Set Identification With Posterior Sampling</a> <br>
+<I>Cyrille Kone</I>, Marc Jourdan, Emilie Kaufmann<br>
+[<a class="no-margin" href="https://arxiv.org/pdf/2411.04939"> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
 </p>
 
-<p> <a href="#">Constrained Pareto Set Identification with Bandit Feedback</a> <br>
+<p> <a href="https://openreview.net/pdf?id=vU0CMgRVEn">Bandit Pareto Set Identification with a Multi-output linear model</a> <br>
 <I>Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
-[<a class="no-margin" href=""> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
+[<a class="no-margin" href="https://openreview.net/pdf?id=vU0CMgRVEn"> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
 </p>
 
 
 <h4> Conference papers  </h4>
-<h7 style="font-size: 13pt; color: gray;">2023</h7>
+<h7 style="font-size: 12pt; color: gray;">2023</h7>
 
 <p> <a href="https://papers.nips.cc/paper_files/paper/2023/hash/6e976e7930460b5c3167a104ba8cc39c-Abstract-Conference.html">Adaptive Algorithms for Relaxed Pareto Set Identification, NeurIPS 2023</a> <br>
 <I class="highlight, go">Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
@@ -32,7 +32,7 @@ layout: default
 
 <!-- #### Journal -->
 
-<h4> Workshops </h4>
+<!-- <h4> Workshops </h4> -->
 
 <h4> Theses </h4>
 <p>

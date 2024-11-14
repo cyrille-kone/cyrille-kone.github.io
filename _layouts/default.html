@@ -16,7 +16,7 @@
       <header>
         <div align="middle">
           {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 0%;"/>
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 0%;width: 50% "/>
           {% endif %}
           <br><br>
         <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
@@ -25,18 +25,13 @@
         <p style="line-height:0.5">cyrille.kone at inria dot fr</p>
         </div>
         <div align="middle" style="margin-bottom: 15px;">
-          <style>
-             a {
-              margin: 5px;
-            }
-          </style>
           <a href="{{ "/assets/pdf/cyrille_kone_cv.pdf"  | absolute_url }}">
             <i class="ai ai-cv" style="font-size:32px;"></i>
           </a>
-          <a href="https://scholar.google.com/citations?user=J0Pr8LgAAAAJ&hl=fr">
+          <a href="https://scholar.google.com/citations?user=V9uXWnIAAAAJ&hl=fr&citsig=ADIE8slGmUZh5I1V9_RedLcnMgnL">
             <i class="ai ai-google-scholar big-icon" style="font-size:32px;"></i>
           </a>
-          <a href="{{ site.github.repository_url }}" style="margin-right:16px;">
+          <a href="https://github.com/cyrille-kone/" style="margin-right:16px;">
             <i class="fa fa-github" style="font-size:32px;"></i>
           </a>
           <br><br>
@@ -74,7 +69,7 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> and inspired by <a href="https://andreatirinzoni.github.io"> Andrea Tirinzoni </a> </small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

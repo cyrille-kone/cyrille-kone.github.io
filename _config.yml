@@ -1,12 +1,12 @@
 title: Cyrille Kone
-affiliation: Inria Scool (Lille)
+affiliation: Inria Scool (ex SequeL, Lille)
 email: cyrille.kone at inria dot fr
-logo: /assets/img/default.png
-#description:
+logo: /assets/img/photo.jpg
+description:
 theme: jekyll-theme-minimal
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+google_scholar: https://scholar.google.com/citations?user=V9uXWnIAAAAJ&hl=fr&citsig=ADIE8slGmUZh5I1V9_RedLcnMgnL
+github_link: https://github.com/cyrille-kone/
+linkedin: https://www.linkedin.com/in/cyrille-k-57b0b6194/
 #avatar: ./assets/img/avatar.png
 google_analytics:
 is_user_page: false
