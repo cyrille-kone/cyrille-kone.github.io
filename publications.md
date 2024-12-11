@@ -10,9 +10,9 @@ layout: default
 [<a class="no-margin" href="https://arxiv.org/pdf/2411.04939"> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
 </p>
 
-<p> <a href="https://openreview.net/pdf?id=vU0CMgRVEn">Bandit Pareto Set Identification with a Multi-output linear model</a> <br>
+<p> <a href="#">Bandit Pareto Set Identification with a Multi-output linear model</a> <br>
 <I>Cyrille Kone</I>, Emilie Kaufmann, Laura Richert <br>
-[<a class="no-margin" href="https://openreview.net/pdf?id=vU0CMgRVEn"> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
+[<a class="no-margin" href="#"> pdf </a>] [<a class ="no-margin" href="#"> code </a>]
 </p>
 
 
