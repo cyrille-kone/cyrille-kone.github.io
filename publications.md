@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<title>Cyrille Kone | Publications</title>
 
 <h3> Publications </h3>
 <!-- <h4>Preprints </h4> -->
