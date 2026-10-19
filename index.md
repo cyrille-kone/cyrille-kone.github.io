@@ -4,7 +4,7 @@ layout: default
 ### About me 
 
 <p>I am a postdoctoral researcher at the <a href="https://www.uzh.ch">University of Zurich</a> in the <a href="https://sites.google.com/view/alpi-lab/home">ALPI lab</a>, working with Prof. Georgia Ramponi. I completed my PhD at Inria Lille’s <a href="https://team.inria.fr/scool/">Scool team</a> (ex SequeL), under the supervision of Emilie Kaufmann (CNRS / Inria researcher) and Laura Richert (Inserm/Inria researcher). Before my PhD, I graduated from ENS Rennes and ENS Paris-Saclay.
-<br> My research interests include <b>sequential learning, martingale theory, Bayesian learning, multi-agent learning, imitation learning</b>.</p>
+<br> My research interests include <b>sequential learning, game theory, Bayesian learning, imitation learning</b>.</p>
 
 ### [News] 
 
